@@ -1,0 +1,27 @@
+- name: Professor Thomas Morstyn
+  photo: Thomas.jpg
+  info: Project Lead and Associate Professor in Power Systems, Department of Engineering Science, University of Oxford
+
+- name: Professor Pierre Pinson
+  photo: Pierre.png
+  info: Project Co-Lead and Chair of Data-centric Design Engineering at Dyson School of Design Engineering, Imperial College London
+
+- name: Professor Jun Cao
+  photo: Jun.jpeg
+  info: Project Co-Lead and R&T Associate researcher, Luxembourg Institute of Science and Technology
+
+- name: Dr Hongtai Zeng
+  photo: Hongtai.jpg
+  info: Postdoctoral Research Associate, University of Oxford
+
+- name: Dr Xu Zhou
+  photo: Xu.jpeg
+  info: Research Associate in Decentralised Electricity Market Desig, Dyson School of Design Engineering, Imperial College London
+
+- name: Dr Younes Zahraoui
+  photo: Younes.jpeg
+  info: Postdoctoral Researcher, Luxembourg Institute of Science and Technology
+
+- name: Mr Davy Virdee
+  photo: Unknown.jpg
+  info: Staff, Edinburgh Parallel Computing Centre
