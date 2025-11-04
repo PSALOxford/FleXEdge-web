@@ -1,7 +1,7 @@
 ---
-title: "FlexEdge Project - Research"
+title: "FleXEdge Project - Research"
 layout: textlay
-excerpt: "FlexEdge -- Research"
+excerpt: "FleXEdge -- Research"
 sitemap: false
 permalink: /research/
 ---
@@ -14,9 +14,9 @@ FleXEdge aims to unlock the full potential of grid-edge flexibility—such as el
 The project will develop an integrated research program combining distributed AI, innovative market mechanisms, and cloud-to-edge computing to support the large-scale integration of flexible devices into both local and national electricity markets. The key challenge is to manage millions of distributed devices across different spatial and temporal scales under uncertainty, while ensuring reliable operation of the power system. It will provide the methods and tools needed to unlock grid-edge flexibility, reducing reliance on fossil-based flexibility and accelerating the transition to net zero.
 
 <p align="center">
-  <img alt="Main Architecture of FlexEdge" src="{{ site.url }}{{ site.baseurl }}/images/respic/structure.png" width="70%">
+  <img alt="Main Architecture of FleXEdge" src="{{ site.url }}{{ site.baseurl }}/images/respic/structure.png" width="70%">
   <br>
-    <em>Figure 1. Main Architecture of FlexEdge</em>
+    <em>Figure 1. Main Architecture of FleXEdge</em>
 </p>
 
 ## Objectives
