@@ -1,2 +1,2 @@
-# [FlexEdge-web](https://psaloxford.github.io/FlexEdge-web/)
+# [FleXEdge-web](https://psaloxford.github.io/FleXEdge-web/)
 Project website
