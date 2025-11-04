@@ -1,7 +1,7 @@
 ---
-title: "FlexEdge Project - Team"
+title: "FleXEdge Project - Team"
 layout: gridlay
-excerpt: "FlexEdge Project: Team members"
+excerpt: "FleXEdge Project: Team members"
 sitemap: false
 permalink: /team/
 ---
