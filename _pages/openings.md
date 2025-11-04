@@ -1,5 +1,5 @@
 ---
-title: "FlexEdge project - Vacancies"
+title: "FleXEdge project - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
