@@ -1,7 +1,7 @@
 ---
-title: "FlexEdge Project - Publications"
+title: "FleXEdge Project - Publications"
 layout: gridlay
-excerpt: "FlexEdge Project -- Publications."
+excerpt: "FleXEdge Project -- Publications."
 sitemap: false
 permalink: /publications/
 ---
