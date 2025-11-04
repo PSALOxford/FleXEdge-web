@@ -1,14 +1,14 @@
 ---
-title: "FlexEdge Project - Home"
+title: "FleXEdge Project - Home"
 layout: homelay
-excerpt: "FlexEdge project."
+excerpt: "FleXEdge project."
 sitemap: false
 permalink: /
 ---
 
-# Welcome to the FlexEdge project!  
+# Welcome to the FleXEdge project!  
 
-Welcome to our research project 'FlexEdge' (Data-Driven Cloud-to-Edge Computing for Scalable Near Real-Time Local Flexibility Markets), funded by UKRI/EPSRC, a collaboration between University of Oxford, Imperial College London, and Luxembourg Institute of science and technology.
+Welcome to our research project 'FleXEdge' (Data-Driven Cloud-to-Edge Computing for Scalable Near Real-Time Local Flexibility Markets), funded by UKRI/EPSRC, a collaboration between University of Oxford, Imperial College London, and Luxembourg Institute of science and technology.
 
 {% include_relative includes/home_carousell.md %}
 
