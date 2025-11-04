@@ -1,5 +1,5 @@
 ---
-title: "FlexEdge project - Instrumente"
+title: "FleXEdge project - Instrumente"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
