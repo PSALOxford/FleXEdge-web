@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "FlexEdge project."
+excerpt: "FleXEdge project."
 sitemap: false
 permalink: /allnews.html
 ---
